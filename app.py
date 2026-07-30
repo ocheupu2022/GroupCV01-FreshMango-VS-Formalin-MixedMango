@@ -220,7 +220,7 @@ model = load_model()
 
 st.markdown("""
 <div class="app-header">
-    <div class="app-title">GET 324 — Group C10</div>
+    <div class="app-title">GET 324 — Group CV01</div>
     <div class="app-subtitle">FruitScan</div>
     <div class="app-desc">formalin detection via deep learning — MobileNetV3</div>
 </div>
